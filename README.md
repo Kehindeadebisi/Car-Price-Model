@@ -1,2 +1,2 @@
-# Car-Price-Prediction
-Car Price Prediction Using Multiple Regression
+# Car-Price-Model
+Car Price Model Using Multiple Regression
